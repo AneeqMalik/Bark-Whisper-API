@@ -53,7 +53,7 @@ pandas==2.1.0
 platformdirs==3.10.0
 pooch==1.7.0
 protobuf==4.24.2
-pyarrow==13.0.0
+pyarrow==14.0.1
 pycparser==2.21
 pycryptodomex==3.18.0
 Pygments==2.16.1
